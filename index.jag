@@ -34,7 +34,7 @@
 					
 
 
-						<div class="span4 block" >
+						<div class="span4 block" style="height: 450px" >
 							<div class="block-header">
 								<div class="block-header-title">Mobile Device Management</div>
 							</div>
@@ -49,32 +49,63 @@
 						</div>
 
 						
-						<div class="span4 block" >
+						<div class="span8 block" >
 							<div class="block-header">
-								<div class="block-header-title">Mobile Application Store</div>
+								<div class="block-header-title">Mobile Application Management</div>
 							</div>
-							<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
+							<div id="newest-app-list" class="container-fluid raw-fluid well-small" style="text-align:center">	
+							
+							
+							<div class="span3-5 block" style="margin-left:25px" >
+								<div class="block-header">
+									<div class="block-header-title">Application Management Console</div>
+								</div>
+								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
+									
+									<a href="/mdm">
+									<img src="img/mdm.png">
+									</a>
+									
+									
+								</div>
+							</div>
+							
+							<div class="span3-5 block" >
+								<div class="block-header">
+									<div class="block-header-title">Mobile Applications Store</div>
+								</div>
+								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
+									
+									<a href="/mdm">
+									<img src="img/mdm.png">
+									</a>
+									
+									
+								</div>
+							</div>
+							
+							<div class="span3-5 block">
+								<div class="block-header">
+									<div class="block-header-title">Mobile Applications Publisher</div>
+								</div>
+								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
+									
+									<a href="/mdm">
+									<img src="img/mdm.png">
+									</a>
+									
+									
+								</div>
+							</div>
+							
+													
 								
-								<a href="/store">
-									<img src="img/store.png">
-								</a>
 								
 							</div>
 						</div>
 					
 					
-						<div class="span4 block" >
-							<div class="block-header">
-								<div class="block-header-title">Mobile Application Publisher</div>
-							</div>
-							<div id="newest-app-list" class="container-fluid raw-fluid"  style="text-align:center">					
-								
-								<a href="/publisher">
-									<img src="img/publisher.png" >
-								</a>
-								
-							</div>
-						</div>
+						
 					
 					
 					
