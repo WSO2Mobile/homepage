@@ -62,8 +62,8 @@
 								</div>
 								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 									
-									<a href="/mdm">
-									<img src="img/mdm.png">
+									<a href="/mam">
+									<img src="img/mam.png">
 									</a>
 									
 									
@@ -72,12 +72,12 @@
 							
 							<div class="span3-5 block" >
 								<div class="block-header">
-									<div class="block-header-title">Mobile Applications Store</div>
+									<div class="block-header-title">Mobile Applications <br> Store</div>
 								</div>
 								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 									
-									<a href="/mdm">
-									<img src="img/mdm.png">
+									<a href="/store">
+									<img src="img/store.png">
 									</a>
 									
 									
@@ -90,8 +90,8 @@
 								</div>
 								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 									
-									<a href="/mdm">
-									<img src="img/mdm.png">
+									<a href="/publisher">
+									<img src="img/publisher.png">
 									</a>
 									
 									
