@@ -34,9 +34,9 @@
 					
 
 
-						<div class="span4 block" style="height: 450px" >
-							<div class="block-header">
-								<div class="block-header-title">Mobile Device Management</div>
+						<div class="span4 block" style="height: 480px" >
+							<div class="block-header text-center">
+								<h3>Mobile Device Management</h3>
 							</div>
 							<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 								
@@ -50,15 +50,15 @@
 
 						
 						<div class="span8 block" >
-							<div class="block-header">
-								<div class="block-header-title">Mobile Application Management</div>
+							<div class="block-header text-center">
+								<h3>Mobile Application Management</h3>
 							</div>
 							<div id="newest-app-list" class="container-fluid raw-fluid well-small" style="text-align:center">	
 							
 							
 							<div class="span3-5 block" style="margin-left:25px" >
 								<div class="block-header">
-									<div class="block-header-title">Application Management Console</div>
+									<div class="block-header-title">App Management Console</div>
 								</div>
 								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 									
@@ -72,7 +72,7 @@
 							
 							<div class="span3-5 block" >
 								<div class="block-header">
-									<div class="block-header-title">Mobile Applications <br> Store</div>
+									<div class="block-header-title">Mobile App  <br> Store</div>
 								</div>
 								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 									
@@ -86,7 +86,7 @@
 							
 							<div class="span3-5 block">
 								<div class="block-header">
-									<div class="block-header-title">Mobile Applications Publisher</div>
+									<div class="block-header-title">Mobile App <br> Publisher<br></div>
 								</div>
 								<div id="newest-app-list" class="container-fluid raw-fluid" style="text-align:center">							
 									
@@ -114,6 +114,16 @@
 				</div>
 
 			</div>
+			
+			
+	<footer style="clear:both;">
+			<div class="navbar">
+				<div class="raw text-center footer-bar">
+					<img class="footer-logo" style="width:100px" src="img/footer.png">
+					Copyright (c) 2013 - WSO2 Mobile .Inc 
+				</div>
+			</div>
+</footer>
 			
 		
 		
